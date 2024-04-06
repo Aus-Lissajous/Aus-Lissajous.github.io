@@ -1,0 +1,45 @@
+{
+  "PlayerName": "Unknow",
+  "Positions": [
+    {
+      "PositionX": "5.976069",
+      "PositionY": "-4.57",
+      "PositionZ": "13.02818"
+    },
+    {
+      "PositionX": "5.623495",
+      "PositionY": "-4.57",
+      "PositionZ": "16.55075"
+    },
+    {
+      "PositionX": "6.96477",
+      "PositionY": "-4.57",
+      "PositionZ": "17.12582"
+    },
+    {
+      "PositionX": "8.537289",
+      "PositionY": "-4.57",
+      "PositionZ": "17.69818"
+    },
+    {
+      "PositionX": "10.86649",
+      "PositionY": "-4.57",
+      "PositionZ": "17.71165"
+    },
+    {
+      "PositionX": "12.83965",
+      "PositionY": "-4.57",
+      "PositionZ": "15.06381"
+    },
+    {
+      "PositionX": "13.37138",
+      "PositionY": "-4.57",
+      "PositionZ": "12.63194"
+    },
+    {
+     "PositionX": "12.4586",
+      "PositionY": "-4.57",
+      "PositionZ": "10.92173"
+    }
+  ]
+}
